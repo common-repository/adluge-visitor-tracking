@@ -1,0 +1,106 @@
+@charset "utf-8";
+/* CSS Document */
+
+.avt-wrap {
+	float: left; 
+	width: 96%; 
+	margin:10px 0px 0px 10px;
+	background-color:#FFFFFF;	
+}
+
+.wrap h2{
+	border-bottom: 2px inset #666666;
+    border-left: 5px groove #999999;
+    font-family: Ariel,san-serif;
+    font-size: 28px;
+    font-style: normal;
+    margin: 10px 0 0;
+    padding-left: 12px;
+    text-transform: uppercase;
+}
+.wrap h3{
+	color:#990000;
+}
+.hf-labels {
+	display: block; 
+	margin: 0 0 10px 0;
+	margin-left:30px;
+	
+	font-size: 14px;
+	font-style:normal;
+	color: #000000;
+}
+
+.footerlabel {
+	margin-top: 25px;
+}
+
+.hf-wrap {  
+	margin: 0px 0 0 40px; 
+	float: left; 
+	width: 70%;
+}
+.hf_styles{
+	
+	background-color:#FFFFFF;
+	padding:10px;
+	border:2px solid #999999;
+	box-shadow: 10px 10px 5px #888888;
+	color: #990000;
+
+	font-size: 14px;
+	font-style:normal;
+	margin:10px 0px 0px 30px;
+
+
+}
+
+.hf_style{
+	
+	float : left;
+	background-color:#FFFFFF;
+	padding:10px;
+	border:2px solid #999999;
+	box-shadow: 10px 10px 5px #888888;
+	color: #990000;
+	
+	font-size: 14px;
+	font-style:normal;
+	margin:10px 0px 0px 30px;
+	
+}
+
+.note{
+	display: block; 
+	margin: 15px 0px 0px 30px;
+	
+	font-size: 12px;
+	font-style:normal;
+	color: #000000;
+}
+.copy_rights{
+	display: block; 
+	margin: 0px 0px 0px 45%;
+	
+	font-size: 12px;
+	font-style:normal;
+	color: blue;
+}
+.feedback{
+	
+	font-size: 12px;
+	font-style:normal;
+	color: red;
+	text-decoration:none;
+}
+.submit input {
+	float:right;
+	margin-left: 5px !important;
+}
+.clear{
+clear:both;
+}
+.custom-header{
+	margin-left: 25px !important;
+
+}
